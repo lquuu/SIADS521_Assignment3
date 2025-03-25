@@ -1,0 +1,22 @@
+References
+
+Data:      "2013-14 Harassment or Bullying Estimations by Basis Category"
+Publisher: Office for Civil Rights (OCR)
+Link:      https://data.ed.gov/dataset/2013-14-harassment-or-bullying-estimations-by-basis-category/resources?resource=e884238b-43e6-476f-9509-c04aabd7c561
+File Name: "harassment-bullying-on-basis-of-sex-reported"
+
+
+
+Medium Blog Post:
+https://medium.com/@alex_44314/use-python-geopandas-to-make-a-us-map-with-alaska-and-hawaii-39a9f5c222c6
+
+New York Times:
+https://www.nytimes.com/interactive/2024/us/abortion-laws-roe-v-wade.html
+
+Plotly:
+https://plotly.com/python/map-configuration/
+https://plotly.com/python/choropleth-maps/
+
+Installing Dash on Jupyter Notebook:
+https://dash.plotly.com/dash-in-jupyter
+
